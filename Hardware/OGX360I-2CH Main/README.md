@@ -13,7 +13,6 @@ You should check this list against the schematic to ensure nothing is missed.
 
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
 | --- | --- | --- | --- | --- |
-
 | 2 | B12B-PHDSS(LF)(SN) | CONN HEADER VERT 12POS 2MM | J4,J5 | https://www.digikey.com/product-detail/en/jst-sales-america-inc/B12B-PHDSS-LF-SN/455-1763-ND/926669 |
 | 1 | ‎B6B-PH-K-S(LF)(SN) | CONN HEADER VERT 6POS 2MM | J6 | https://www.digikey.com/product-detail/en/jst-sales-america-inc/B6B-PH-K-S-LF-SN/455-1708-ND/926615 |
 | 1 | MIC5219-3.3YM5-TR | IC REG LINEAR 3.3V 500MA SOT23-5‎ | U3 | https://www.digikey.com/product-detail/en/microchip-technology/MIC5219-3.3YM5-TR/576-1281-1-ND/771902 |
